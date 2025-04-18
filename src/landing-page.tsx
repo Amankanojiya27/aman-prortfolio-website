@@ -1,4 +1,4 @@
-import './App.css'
+import './globle.css'
 
 function App() {
 
